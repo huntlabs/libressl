@@ -1,0 +1,6 @@
+{
+    "name": "libressl",
+    "description": "D Programming language interface to OpenBSD's LibreSSL library",
+    "authors": [ "putao.com dlang team." ],
+    "license": "BSD"
+}
